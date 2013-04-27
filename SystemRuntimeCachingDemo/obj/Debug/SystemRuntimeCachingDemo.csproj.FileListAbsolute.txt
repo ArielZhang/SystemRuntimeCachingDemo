@@ -1,0 +1,5 @@
+C:\Users\objzhana\Documents\Visual Studio 2012\Projects\SystemRuntimeCachingDemo\SystemRuntimeCachingDemo\bin\SystemRuntimeCachingDemo.dll
+C:\Users\objzhana\Documents\Visual Studio 2012\Projects\SystemRuntimeCachingDemo\SystemRuntimeCachingDemo\bin\SystemRuntimeCachingDemo.pdb
+C:\Users\objzhana\Documents\Visual Studio 2012\Projects\SystemRuntimeCachingDemo\SystemRuntimeCachingDemo\obj\Debug\SystemRuntimeCachingDemo.dll
+C:\Users\objzhana\Documents\Visual Studio 2012\Projects\SystemRuntimeCachingDemo\SystemRuntimeCachingDemo\obj\Debug\SystemRuntimeCachingDemo.pdb
+C:\Users\objzhana\Documents\Visual Studio 2012\Projects\SystemRuntimeCachingDemo\SystemRuntimeCachingDemo\obj\Debug\SystemRuntimeCachingDemo.csprojResolveAssemblyReference.cache
